@@ -1,6 +1,7 @@
 ### Lab: Automated Garden Management System
 
 **Estimated Completion Time: 30-60 min.**
+_did it_
 
 **Objective:**
 In this lab, you will apply your knowledge of JavaScript statements to create a program that simulates an automated garden management system. You will use selection and repetition statements to control various aspects of the garden, such as watering plants, controlling garden lights, and adjusting the soil moisture level.
